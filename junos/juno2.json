@@ -1,0 +1,15 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Breed",
+            "value": "Great Pyrenees"
+        },
+        {
+            "trait_type": "Eye color",
+            "value": "Brown"
+        }
+    ],
+    "description": "the floof",
+    "image": "https://gateway.pinata.cloud/ipfs/QmXpy3TnaxXPquHtksHZuLVH8VRRTU4Qc6PdTf3GTC2ncv",
+    "name": "Juno"
+}

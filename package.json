@@ -17,6 +17,13 @@
   },
   "homepage": "https://github.com/peyton/rarejunos#readme",
   "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "ethers": "^5.5.1",
     "hardhat": "^2.6.8"
+  },
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.1.7",
+    "@openzeppelin/contracts": "^4.3.2",
+    "dotenv": "^10.0.0"
   }
 }
