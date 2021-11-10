@@ -45,4 +45,4 @@ const JUNO_1 = "https://gateway.pinata.cloud/ipfs/QmS8kPCHQBHhBM8DHFr8ERwTAUYPcF
 const JUNO_2 = "https://gateway.pinata.cloud/ipfs/QmVgjA4zwhguije3yqgCFNQLHwW2rRWhaQsLHEcVy15GZ2"
 const JUNO_3 = "https://gateway.pinata.cloud/ipfs/QmX7KWZNrYAK2P3Lw6Kfw9FKoU2nKdDGYozhZFkcJZks3D"
 
-// mintNFT(JUNO_2)
+// mintNFT('0xd8e1B0C57140b523F5129F69651E32D7Fe134D71', JUNO_3)
